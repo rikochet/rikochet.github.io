@@ -1,0 +1,3 @@
+export const SET_PORTFOLIO = 'SET_PORTFOLIO';
+export const SET_OPENSOURCE = 'SET_OPENSOURCE';
+export const SET_ARTICLES = 'SET_ARTICLES';
