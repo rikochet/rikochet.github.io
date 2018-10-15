@@ -4,7 +4,7 @@ export const firebase = require("firebase");
 require("firebase/firestore");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCndGBw-eMc6Ti8jtA7G3qRlv009mvNays",
+  apiKey: "AIzaSyAAqvbVsSzrgREDKjhJXfAa6mLPZT7pl78",
   authDomain: "rikochet-github-io.firebaseapp.com",
   databaseURL: "https://rikochet-github-io.firebaseio.com",
   projectId: "rikochet-github-io",
